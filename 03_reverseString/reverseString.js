@@ -5,6 +5,8 @@ const reverseString = function(sentence) {
 
     return joinSentence;
 
+    //return sentence.split('').reverse().join('');
+
 };
 
 // Do not edit below this line
